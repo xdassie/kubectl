@@ -1,1 +1,1 @@
-FROM alpine/k8s:latest
+FROM alpine/k8s:1.13.12
